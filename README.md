@@ -103,7 +103,3 @@ python app.py
 streamlit run streamlit_app.py
 ```
 
-## Contributions
-[Saurabh Chatterjee](https://github.com/chatterjeesaurabh) </br>
-MTech, Signal Processing and Machine Learning </br>
-Indian Institute of Technology (IIT) Kharagpur
